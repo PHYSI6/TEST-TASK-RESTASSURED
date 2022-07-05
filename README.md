@@ -1,1 +1,6 @@
-# TEST-TASK-RESTASSURED
+# Тестовое задание. RestAssured
+
+Написать тест, используя RestAssured library
+Послать с помощью него 2 запроса: Post и Get
+Проверить, что вернется status code 200
+Использовать любой публичный API
